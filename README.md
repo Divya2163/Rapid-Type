@@ -23,4 +23,6 @@ Rapid type gives random paragraphs and a timer of 60 seconds and gives you WPM a
 - **User Profile**: Add a user profile to help users track what they have practiced. 
 - **Setting up your timer**: Let the user to set up their time limits.
 - **Visual Stats**: Graphical stat of their typing speed over a period or test to give more clarity. 
-  
+
+## ⭐How it looks
+![image](https://github.com/Divya2163/Rapid-Type/assets/76438709/edd55e03-08dc-4d0e-9211-3b6cb4306b20)
