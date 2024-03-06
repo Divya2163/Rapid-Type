@@ -1,14 +1,14 @@
 # Rapid-Type
 Rapid Type is a web app for calculating your typing speed and practicing typing faster. 
 
-## Features
+## ✅Features
 
 - **Random Paragraphs**: You get multiple random paragraphs that help you practice.
 - **Live Scorecards**: Live updation of mistakes and WPM that helps you track your progress as you type. 
 - **Clean UI**: The minimal design helps you focus more and reduces distractions.
 - **Dark Mode**: It goes easy on your eyes and helps you practice more. 
 
-## Technologies
+## ⚙️Technologies
 
 - `Html`
 - `CSS`
